@@ -3,5 +3,5 @@
 --   2. Any notes or insights as SQL comments
 --   3. Your final conclusion: who did it?
 
--- Using SQL clauses will help you solve the mystery: 
+-- Using these SQL clauses will help you solve the mystery: 
 --    SELECT, FROM, WHERE, AND, OR, ORDER BY, LIMIT, LIKE, DISTINCT, BETWEEN, AS
