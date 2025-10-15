@@ -23,6 +23,8 @@ id	name	alias	occupation	address
 Possible witnesses are
 Carlos Mendez, Raul Guitierrez
 
+SELECT * FROM interviews WHERE person_id = 101 OR person_id = 102;
+
 id	person_id	transcript
 101	101	I saw someone check into a hotel on August 13. The guy looked nervous.
 103	102	I heard someone checked into a hotel with "Sunset" in the name.
